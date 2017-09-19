@@ -17,5 +17,5 @@ $_['text_download']    = 'Downloads';
 $_['text_reward']      = 'Pontos';
 $_['text_return']      = 'Devoluções';
 $_['text_transaction'] = 'Transações';
-$_['text_newsletter']  = 'Informativo';
+$_['text_newsletter']  = 'Newsletter';
 $_['text_recurring']   = 'Assinaturas';

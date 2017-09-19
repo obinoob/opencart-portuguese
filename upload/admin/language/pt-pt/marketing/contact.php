@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        = 'Informativo';
+$_['heading_title']        = 'Newsletter';
 
 // Text
 $_['text_success']         = 'Sua mensagem foi enviada com sucesso!';

@@ -13,5 +13,5 @@ $_['text_special']      = 'Produtos em promoção';
 $_['text_account']      = 'A minha conta';
 $_['text_order']        = 'Histórico de pedidos';
 $_['text_wishlist']     = 'Lista de desejos';
-$_['text_newsletter']   = 'Informativo';
+$_['text_newsletter']   = 'Newsletter';
 $_['text_powered']      = 'Desenvolvido com tecnologia <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
