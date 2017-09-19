@@ -4,7 +4,7 @@ $_['heading_title']    = 'A minha conta';
 
 // Text
 $_['text_register']    = 'Registe-se';
-$_['text_login']       = 'Aceder';
+$_['text_login']       = 'Entrar';
 $_['text_logout']      = 'Sair';
 $_['text_forgotten']   = 'Solicitar nova senha';
 $_['text_account']     = 'A minha conta';
