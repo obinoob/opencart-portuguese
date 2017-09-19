@@ -3,7 +3,7 @@
 $_['heading_title']    = 'A minha conta';
 
 // Text
-$_['text_register']    = 'Cadastre-se';
+$_['text_register']    = 'Registe-se';
 $_['text_login']       = 'Acessar';
 $_['text_logout']      = 'Sair';
 $_['text_forgotten']   = 'Solicitar nova senha';

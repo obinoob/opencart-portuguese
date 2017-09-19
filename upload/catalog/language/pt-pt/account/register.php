@@ -4,7 +4,7 @@ $_['heading_title']        = 'Cadastre sua conta';
 
 // Text
 $_['text_account']         = 'A minha conta';
-$_['text_register']        = 'Cadastre-se';
+$_['text_register']        = 'Registe-se';
 $_['text_account_already'] = 'Se você já tem uma conta na nossa loja, faça login com os dados da sua conta <a href="%s">clicando aqui</a>.';
 $_['text_your_details']    = 'Seus dados de contato';
 $_['text_newsletter']      = 'Novidades, ofertas e promoções por e-mail';
