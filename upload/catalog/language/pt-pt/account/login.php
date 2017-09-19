@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']                = 'Acessar Conta';
+$_['heading_title']                = 'Entrar';
 
 // Text
 $_['text_account']                 = 'A minha conta';
