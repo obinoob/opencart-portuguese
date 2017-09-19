@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title']       = 'Frete fixo';
-$_['text_description'] = 'Frete fixo';
+$_['text_title']       = 'Envio fixo';
+$_['text_description'] = 'Envio fixo';

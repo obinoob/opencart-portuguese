@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']    = 'Frete grátis';
+$_['heading_title']    = 'Envio grátis';
 
 // Text
 $_['text_extension']   = 'Extensões';
-$_['text_success']     = 'Frete grátis modificado com sucesso!';
-$_['text_edit']        = 'A editar Frete grátis';
+$_['text_success']     = 'Envio grátis modificado com sucesso!';
+$_['text_edit']        = 'A editar Envio grátis';
 
 // Entry
 $_['entry_total']      = 'Total mínimo';
@@ -17,4 +17,4 @@ $_['entry_sort_order'] = 'Posição';
 $_['help_total']       = 'O valor mínimo que o pedido deve alcançar para que esta opção de pagamento seja oferecida ao cliente.';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar a extensão Frete grátis!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar a extensão Envio grátis!';

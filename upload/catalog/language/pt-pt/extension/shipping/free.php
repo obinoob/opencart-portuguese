@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title']       = 'Frete grátis';
-$_['text_description'] = 'Frete grátis';
+$_['text_title']       = 'Envio grátis';
+$_['text_description'] = 'Envio grátis';

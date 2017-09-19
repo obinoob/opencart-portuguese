@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']    = 'Frete por peso';
+$_['heading_title']    = 'Envio por peso';
 
 // Text
 $_['text_extension']   = 'Extensões';
-$_['text_success']     = 'Frete por peso modificado com sucesso!';
-$_['text_edit']        = 'A editar Frete por peso';
+$_['text_success']     = 'Envio por peso modificado com sucesso!';
+$_['text_edit']        = 'A editar Envio por peso';
 
 // Entry
 $_['entry_rate']       = 'Valor por peso';
@@ -18,4 +18,4 @@ $_['entry_sort_order'] = 'Posição';
 $_['help_rate']        = 'Exemplo: 5:10.00,7:12.00 Peso:Valor,Peso:Valor, etc...';
 
 // Error
-$_['error_permission'] = 'Atenção: Você não tem permissão para modificar a extensão Frete por peso!';
+$_['error_permission'] = 'Atenção: Você não tem permissão para modificar a extensão Envio por peso!';
