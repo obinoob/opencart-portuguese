@@ -4,7 +4,7 @@ $_['heading_title']                  = 'Finalizar pedido';
 
 // Text
 $_['text_cart']                      = 'Carrinho de compras';
-$_['text_checkout_option']           = 'Acesse sua conta';
+$_['text_checkout_option']           = 'Aceda à sua conta';
 $_['text_checkout_account']          = 'Detalhes da sua conta';
 $_['text_checkout_payment_address']  = 'Endereço para fatura';
 $_['text_checkout_shipping_address'] = 'Endereço para entrega';
