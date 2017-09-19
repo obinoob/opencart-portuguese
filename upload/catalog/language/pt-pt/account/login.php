@@ -9,7 +9,7 @@ $_['text_new_customer']            = 'Ainda não é cliente?';
 $_['text_register']                = 'Registe a sua conta.';
 $_['text_register_account']        = 'Ao registar a sua conta, você será capaz de comprar mais rápido, ficar atualizado sobre a situação de um pedido e acompanhar o histórico dos pedidos que você já fez.';
 $_['text_returning_customer']      = 'Já é cliente?';
-$_['text_i_am_returning_customer'] = 'Se você já fez um pedido e cadastrou uma conta, coloque os dados da conta abaixo:';
+$_['text_i_am_returning_customer'] = 'Se você já fez um pedido e registou uma conta, coloque os dados da conta abaixo:';
 $_['text_forgotten']               = 'Solicitar nova senha';
 
 // Entry

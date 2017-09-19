@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']        = 'Confirmação de cadastro na loja %s.';
+$_['text_subject']        = 'Confirmação de registo na loja %s.';
 $_['text_welcome']        = 'Obrigado por se registar na loja %s!';
 $_['text_login']          = 'Sua conta foi registada na nossa loja, agora você pode acessá-la utilizando seu e-mail e senha através da nossa loja:';
 $_['text_approval']       = 'Sua conta precisa ser aprovada para que você possa aceder os dados de sua conta. Assim que sua conta for aprovada você poderá aceder a sua conta utilizando seu e-mail e sua senha através de nossa loja:';

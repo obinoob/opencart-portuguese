@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        = 'Personalizar cadastro';
+$_['heading_title']        = 'Personalizar registo';
 
 // Text
 $_['text_success']         = 'Campo personalizado modificado com sucesso!';
@@ -46,10 +46,10 @@ $_['entry_sort_order']     = 'Posição';
 
 // Help
 $_['help_regex']           = 'Exemplo de regex: /[a-zA-Z0-9_-]/';
-$_['help_sort_order']      = 'Posição do campo no cadastro. Use o sinal de menos para contar para trás a partir do último campo no conjunto';
+$_['help_sort_order']      = 'Posição do campo no registo. Use o sinal de menos para contar para trás a partir do último campo no conjunto';
 
 // Error
-$_['error_permission']     = 'Atenção: Você não tem permissão para personalizar o cadastro!';
+$_['error_permission']     = 'Atenção: Você não tem permissão para personalizar o registo!';
 $_['error_name']           = 'O nome do campo deve ter entre 1 e 128 caracteres!';
 $_['error_type']           = 'É necessário adicionar opções!';
 $_['error_custom_value']   = 'O texto da opção deve ter entre 1 e 128 caracteres!';
