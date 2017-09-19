@@ -5,7 +5,7 @@ $_['heading_title']    = 'Impostos';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Impostos modificados com sucesso!';
-$_['text_edit']        = 'Editando Impostos';
+$_['text_edit']        = 'A editar Impostos';
 
 // Entry
 $_['entry_status']     = 'Situação';

@@ -5,7 +5,7 @@ $_['heading_title']          = 'Google Merchante Center';
 // Text
 $_['text_extension']         = 'Extensões';
 $_['text_success']           = 'Google Merchante Center modificado com sucesso!';
-$_['text_edit']              = 'Editando Google Merchante Center';
+$_['text_edit']              = 'A editar Google Merchante Center';
 $_['text_import']            = 'Para baixar a última lista de categorias <a href="https://support.google.com/merchants/answer/160081?hl=pt_pt" target="_blank" class="alert-link">clique aqui</a> e escolha a taxonomia com IDs numéricos em arquivo de texto simples (.txt). Depois carregue através do botão de importação.';
 
 // Column

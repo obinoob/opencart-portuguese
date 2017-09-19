@@ -4,7 +4,7 @@ $_['heading_title']    = 'Marketing';
 
 // Text
 $_['text_success']     = 'Marketing modificado com sucesso!';
-$_['text_list']        = 'Listando marketing';
+$_['text_list']        = 'A listar marketing';
 
 // Column
 $_['column_name']      = 'Marketing';

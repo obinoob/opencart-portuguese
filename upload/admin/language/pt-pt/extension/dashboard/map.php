@@ -5,7 +5,7 @@ $_['heading_title']    = 'Mapa geográfico de vendas';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Mapa geográfico de vendas modificado com sucesso!';
-$_['text_edit']        = 'Editando Mapa geográfico de vendas';
+$_['text_edit']        = 'A editar Mapa geográfico de vendas';
 $_['text_order']       = 'Pedidos';
 $_['text_sale']        = 'Vendas';
 

@@ -4,9 +4,9 @@ $_['heading_title']    = 'Grupos de usuários';
 
 // Text
 $_['text_success']     = 'Grupo de usuários modificado com sucesso!';
-$_['text_list']        = 'Listando grupos de usuários';
+$_['text_list']        = 'A listar grupos de usuários';
 $_['text_add']         = 'Novo grupo de usuários';
-$_['text_edit']        = 'Editando grupo de usuários';
+$_['text_edit']        = 'A editar grupo de usuários';
 
 // Column
 $_['column_name']      = 'Grupo de usuários';

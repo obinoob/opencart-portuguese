@@ -5,7 +5,7 @@ $_['heading_title']    = 'Frete fixo';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Frete fixo modificado com sucesso!';
-$_['text_edit']        = 'Editando Frete fixo';
+$_['text_edit']        = 'A editar Frete fixo';
 
 // Entry
 $_['entry_cost']       = 'Valor fixo';

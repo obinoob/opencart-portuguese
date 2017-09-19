@@ -4,9 +4,9 @@ $_['heading_title']       = 'Layouts';
 
 // Text
 $_['text_success']        = 'Layout modificado com sucesso!';
-$_['text_list']           = 'Listando layouts';
+$_['text_list']           = 'A listar layouts';
 $_['text_add']            = 'Novo layout';
-$_['text_edit']           = 'Editando layout';
+$_['text_edit']           = 'A editar layout';
 $_['text_remove']         = 'Remover';
 $_['text_route']          = 'Selecione a loja e as rotas que serão utilizadas no layout';
 $_['text_module']         = 'Selecione a posição dos módulos';

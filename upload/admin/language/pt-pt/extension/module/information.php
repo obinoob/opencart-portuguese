@@ -5,7 +5,7 @@ $_['heading_title']    = 'Menu de informações';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Menu de informações modificado com sucesso!';
-$_['text_edit']        = 'Editando Menu de informações';
+$_['text_edit']        = 'A editar Menu de informações';
 
 // Entry
 $_['entry_status']     = 'Situação';

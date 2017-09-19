@@ -4,9 +4,9 @@ $_['heading_title']           = 'Países';
 
 // Text
 $_['text_success']            = 'País modificado com sucesso!';
-$_['text_list']               = 'Listando países';
+$_['text_list']               = 'A listar países';
 $_['text_add']                = 'Novo país';
-$_['text_edit']               = 'Editando país';
+$_['text_edit']               = 'A editar país';
 
 // Column
 $_['column_name']             = 'País';

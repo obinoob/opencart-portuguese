@@ -5,7 +5,7 @@ $_['heading_title']      = 'Cheque';
 // Text
 $_['text_extension']     = 'Extensões';
 $_['text_success']       = 'Cheque modificado com sucesso!';
-$_['text_edit']          = 'Editando Cheque';
+$_['text_edit']          = 'A editar Cheque';
 
 // Entry
 $_['entry_payable']      = 'Nominal';

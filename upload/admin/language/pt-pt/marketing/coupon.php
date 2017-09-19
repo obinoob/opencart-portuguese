@@ -4,9 +4,9 @@ $_['heading_title']       = 'Cupons';
 
 // Text
 $_['text_success']        = 'Cupom modificado com sucesso!';
-$_['text_list']           = 'Listando cupons';
+$_['text_list']           = 'A listar cupons';
 $_['text_add']            = 'Novo cupom';
-$_['text_edit']           = 'Editando cupom';
+$_['text_edit']           = 'A editar cupom';
 $_['text_percent']        = 'Percentual';
 $_['text_amount']         = 'Valor fixo';
 $_['text_coupon']         = 'Histórico';
@@ -21,7 +21,7 @@ $_['column_status']       = 'Situação';
 $_['column_order_id']     = 'Pedido nº';
 $_['column_customer']     = 'Cliente';
 $_['column_amount']       = 'Valor';
-$_['column_date_added']   = 'Cadastro';
+$_['column_date_added']   = 'Registo';
 $_['column_action']       = 'Ação';
 
 // Entry

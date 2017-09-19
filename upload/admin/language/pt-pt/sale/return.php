@@ -4,9 +4,9 @@ $_['heading_title']        = 'Produtos devolvidos';
 
 // Text
 $_['text_success']         = 'Produto devolvido modificado com sucesso!';
-$_['text_list']            = 'Listando produtos devolvidos';
+$_['text_list']            = 'A listar produtos devolvidos';
 $_['text_add']             = 'Novo produto devolvido';
-$_['text_edit']            = 'Editando produto devolvido';
+$_['text_edit']            = 'A editar produto devolvido';
 $_['text_opened']          = 'Aberta';
 $_['text_unopened']        = 'Lacrada';
 $_['text_order']           = 'Informações do pedido';
@@ -21,7 +21,7 @@ $_['column_customer']      = 'Cliente';
 $_['column_product']       = 'Produto';
 $_['column_model']         = 'Modelo';
 $_['column_status']        = 'Situação';
-$_['column_date_added']    = 'Cadastro';
+$_['column_date_added']    = 'Registo';
 $_['column_date_modified'] = 'Modificação';
 $_['column_comment']       = 'Comentário';
 $_['column_notify']        = 'Cliente notificado';
@@ -45,7 +45,7 @@ $_['entry_return_action']  = 'Solução';
 $_['entry_return_status']  = 'Situação';
 $_['entry_notify']         = 'Notificar cliente';
 $_['entry_return_id']      = 'Devolução nº';
-$_['entry_date_added']     = 'Cadastro';
+$_['entry_date_added']     = 'Registo';
 $_['entry_date_modified']  = 'Modificação';
 
 // Help

@@ -4,9 +4,9 @@ $_['heading_title']     = 'Tipos de cliente';
 
 // Text
 $_['text_success']      = 'Tipo de cliente modificado com sucesso!';
-$_['text_list']         = 'Listando tipos de cliente';
+$_['text_list']         = 'A listar tipos de cliente';
 $_['text_add']          = 'Novo tipo de cliente';
-$_['text_edit']         = 'Editando tipo de cliente';
+$_['text_edit']         = 'A editar tipo de cliente';
 
 // Column
 $_['column_name']       = 'Tipo de cliente';

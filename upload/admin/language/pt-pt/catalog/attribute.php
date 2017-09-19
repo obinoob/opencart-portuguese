@@ -4,9 +4,9 @@ $_['heading_title']          = 'Atributos';
 
 // Text
 $_['text_success']           = 'Atributo modificado com sucesso!';
-$_['text_list']              = 'Listando atributos';
+$_['text_list']              = 'A listar atributos';
 $_['text_add']               = 'Novo atributo';
-$_['text_edit']              = 'Editando atributo';
+$_['text_edit']              = 'A editar atributo';
 
 // Column
 $_['column_name']            = 'Atributo';

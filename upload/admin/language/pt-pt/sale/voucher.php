@@ -4,9 +4,9 @@ $_['heading_title']     = 'Vales presentes';
 
 // Text
 $_['text_success']      = 'Vale presentes modificado com sucesso!';
-$_['text_list']         = 'Listando vales presentes';
+$_['text_list']         = 'A listar vales presentes';
 $_['text_add']          = 'Novo vale presentes';
-$_['text_edit']         = 'Editando vale presentes';
+$_['text_edit']         = 'A editar vale presentes';
 $_['text_sent']         = 'O e-mail com o vale presentes foi enviado!';
 
 // Column
@@ -19,7 +19,7 @@ $_['column_amount']     = 'Valor';
 $_['column_status']     = 'Situação';
 $_['column_order_id']   = 'Pedido nº';
 $_['column_customer']   = 'Clientes';
-$_['column_date_added'] = 'Cadastro';
+$_['column_date_added'] = 'Registo';
 $_['column_action']     = 'Ação';
 
 // Entry

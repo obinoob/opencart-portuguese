@@ -5,7 +5,7 @@ $_['heading_title']        = 'Informativo';
 // Text
 $_['text_success']         = 'Sua mensagem foi enviada com sucesso!';
 $_['text_sent']            = 'Sua mensagem foi enviada com sucesso para %s de %s destinatários!';
-$_['text_list']            = 'Listando layouts';
+$_['text_list']            = 'A listar layouts';
 $_['text_default']         = 'Padrão';
 $_['text_newsletter']      = 'Todos os assinantes';
 $_['text_customer_all']    = 'Todos os clientes';

@@ -5,7 +5,7 @@ $_['heading_title']     = 'Últimos pedidos';
 // Text
 $_['text_extension']    = 'Extensões';
 $_['text_success']      = 'Últimos pedidos modificado com sucesso!';
-$_['text_edit']         = 'Editando Últimos pedidos';
+$_['text_edit']         = 'A editar Últimos pedidos';
 
 // Column
 $_['column_order_id']   = 'Pedido Nº';

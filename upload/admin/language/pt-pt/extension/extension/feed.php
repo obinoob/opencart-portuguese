@@ -4,7 +4,7 @@ $_['heading_title']    = 'Alimentadores';
 
 // Text
 $_['text_success']     = 'Alimentador modificado com sucesso!';
-$_['text_list']        = 'Listando alimentadores';
+$_['text_list']        = 'A listar alimentadores';
 
 // Column
 $_['column_name']      = 'Alimentador';

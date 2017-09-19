@@ -4,9 +4,9 @@ $_['heading_title']    = 'Soluções de devoluções';
 
 // Text
 $_['text_success']     = 'Solução de devoluções modificada com sucesso!';
-$_['text_list']        = 'Listando soluções de devoluções';
+$_['text_list']        = 'A listar soluções de devoluções';
 $_['text_add']         = 'Nova solução de devoluções';
-$_['text_edit']        = 'Editando solução de devoluções';
+$_['text_edit']        = 'A editar solução de devoluções';
 
 // Column
 $_['column_name']      = 'Solução de devoluções';

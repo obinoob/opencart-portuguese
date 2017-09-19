@@ -5,7 +5,7 @@ $_['heading_title']    = 'Banners em slideshow';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Banners em slideshow modificado com sucesso!';
-$_['text_edit']        = 'Editando Banners em slideshow';
+$_['text_edit']        = 'A editar Banners em slideshow';
 
 // Entry
 $_['entry_name']       = 'Título do módulo';

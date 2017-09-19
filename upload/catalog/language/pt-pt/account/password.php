@@ -3,7 +3,7 @@
 $_['heading_title']  = 'Modificar senha';
 
 // Text
-$_['text_account']   = 'Minha conta';
+$_['text_account']   = 'A minha conta';
 $_['text_password']  = 'Preencha abaixo a sua nova senha.';
 $_['text_success']   = 'Sua senha foi modifica.';
 

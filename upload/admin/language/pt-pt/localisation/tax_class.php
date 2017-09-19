@@ -4,9 +4,9 @@ $_['heading_title']     = 'Grupos de impostos';
 
 // Text
 $_['text_success']      = 'Grupo de impostos modificado com sucesso!';
-$_['text_list']         = 'Listando grupos de impostos';
+$_['text_list']         = 'A listar grupos de impostos';
 $_['text_add']          = 'Novo grupo de impostos';
-$_['text_edit']         = 'Editando grupo de impostos';
+$_['text_edit']         = 'A editar grupo de impostos';
 $_['text_tax_class']    = 'Detalhes do grupo de impostos';
 $_['text_tax_rate']     = 'Tipos de impostos';
 $_['text_shipping']     = 'Endereço de entrega';

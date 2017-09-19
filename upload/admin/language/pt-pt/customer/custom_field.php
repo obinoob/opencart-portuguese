@@ -4,9 +4,9 @@ $_['heading_title']        = 'Personalizar cadastro';
 
 // Text
 $_['text_success']         = 'Campo personalizado modificado com sucesso!';
-$_['text_list']            = 'Listando campos personalizados';
+$_['text_list']            = 'A listar campos personalizados';
 $_['text_add']             = 'Novo campo personalizado';
-$_['text_edit']            = 'Editando campo personalizado';
+$_['text_edit']            = 'A editar campo personalizado';
 $_['text_choose']          = 'Com opção de seleção';
 $_['text_select']          = 'Menu de seleção';
 $_['text_radio']           = 'Única seleção';

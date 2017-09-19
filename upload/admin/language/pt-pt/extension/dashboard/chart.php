@@ -5,7 +5,7 @@ $_['heading_title']    = 'Gráfico de vendas';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Gráfico de vendas modificado com sucesso!';
-$_['text_edit']        = 'Editando Gráfico de vendas';
+$_['text_edit']        = 'A editar Gráfico de vendas';
 $_['text_order']       = 'Pedidos';
 $_['text_customer']    = 'Clientes';
 $_['text_day']         = 'Hoje';

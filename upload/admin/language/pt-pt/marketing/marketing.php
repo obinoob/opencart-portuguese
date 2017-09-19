@@ -4,9 +4,9 @@ $_['heading_title']     = 'Campanhas de marketing';
 
 // Text
 $_['text_success']      = 'Campanha modificada com sucesso!';
-$_['text_list']         = 'Listando campanhas';
+$_['text_list']         = 'A listar campanhas';
 $_['text_add']          = 'Nova campanha';
-$_['text_edit']         = 'Editando campanha';
+$_['text_edit']         = 'A editar campanha';
 $_['text_filter']       = 'Filtros';
 
 // Column
@@ -14,7 +14,7 @@ $_['column_name']       = 'Campanha';
 $_['column_code']       = 'Código de rastreio';
 $_['column_clicks']     = 'Cliques';
 $_['column_orders']     = 'Pedidos';
-$_['column_date_added'] = 'Cadastro';
+$_['column_date_added'] = 'Registo';
 $_['column_action']     = 'Ação';
 
 // Entry
@@ -22,7 +22,7 @@ $_['entry_name']        = 'Campanha';
 $_['entry_description'] = 'Informações';
 $_['entry_code']        = 'Código de rastreio';
 $_['entry_example']     = 'URLs';
-$_['entry_date_added']  = 'Cadastro';
+$_['entry_date_added']  = 'Registo';
 
 // Help
 $_['help_code']         = 'Código de rastreamento que será utilizado nas campanhas de marketing';

@@ -5,7 +5,7 @@ $_['heading_title']      = 'Depósito bancário';
 // Text
 $_['text_extension']     = 'Extensões';
 $_['text_success']       = 'Depósito bancário modificado com sucesso!';
-$_['text_edit']          = 'Editando Depósito bancário';
+$_['text_edit']          = 'A editar Depósito bancário';
 
 // Entry
 $_['entry_bank']         = 'Instruções para depósito';

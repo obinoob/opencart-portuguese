@@ -4,9 +4,9 @@ $_['heading_title']     = 'Marcas';
 
 // Text
 $_['text_success']      = 'Marca modificado com sucesso!';
-$_['text_list']         = 'Listando marcas';
+$_['text_list']         = 'A listar marcas';
 $_['text_add']          = 'Nova marca';
-$_['text_edit']         = 'Editando marca';
+$_['text_edit']         = 'A editar marca';
 $_['text_default']      = 'Padrão';
 $_['text_percent']      = 'Percentual';
 $_['text_amount']       = 'Valor fixo';

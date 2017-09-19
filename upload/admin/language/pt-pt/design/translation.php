@@ -4,7 +4,7 @@ $_['heading_title']    = 'Editor de traduções';
 
 // Text
 $_['text_success']     = 'Tradução modificada com sucesso!';
-$_['text_list']        = 'Listando traduções';
+$_['text_list']        = 'A listar traduções';
 $_['text_edit']        = 'Editar tradução';
 $_['text_add']         = 'Adicionar tradução';
 $_['text_default']     = 'Padrão';

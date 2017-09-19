@@ -5,7 +5,7 @@ $_['heading_title']    = 'Klarna Fee';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Klarna Fee modificada com sucesso!';
-$_['text_edit']        = 'Editando Klarna Fee';
+$_['text_edit']        = 'A editar Klarna Fee';
 $_['text_sweden']      = 'Suécia';
 $_['text_norway']      = 'Noruega';
 $_['text_finland']     = 'Finlândia';

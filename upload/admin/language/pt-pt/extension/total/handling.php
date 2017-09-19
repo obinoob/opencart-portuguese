@@ -5,7 +5,7 @@ $_['heading_title']    = 'Taxa de manuseio';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Taxa de manuseio modificado com sucesso!';
-$_['text_edit']        = 'Editando Taxa de manuseio';
+$_['text_edit']        = 'A editar Taxa de manuseio';
 
 // Entry
 $_['entry_total']      = 'Total mínimo';

@@ -4,7 +4,7 @@ $_['heading_title']         = 'Aprovar clientes';
 
 // Text
 $_['text_success']          = 'Aprovação modificada com sucesso!';
-$_['text_list']             = 'Listando clientes para aprovação';
+$_['text_list']             = 'A listar clientes para aprovação';
 $_['text_default']          = 'Padrão';
 $_['text_customer']         = 'Cliente';
 $_['text_affiliate']        = 'Afiliado';

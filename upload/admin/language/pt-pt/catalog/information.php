@@ -4,9 +4,9 @@ $_['heading_title']          = 'Páginas de informações';
 
 // Text
 $_['text_success']           = 'Página de informações modificada com sucesso!';
-$_['text_list']              = 'Listando páginas de informações';
+$_['text_list']              = 'A listar páginas de informações';
 $_['text_add']               = 'Nova página de informações';
-$_['text_edit']              = 'Editando página de informações';
+$_['text_edit']              = 'A editar página de informações';
 $_['text_default']           = 'Padrão';
 $_['text_keyword']           = 'Não utilize espaços, substitua os espaços por - (hífen), e certifique-se que a palavra é exclusiva em toda a loja.';
 

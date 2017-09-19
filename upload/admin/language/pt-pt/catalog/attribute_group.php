@@ -4,9 +4,9 @@ $_['heading_title']     = 'Grupos de atributos';
 
 // Text
 $_['text_success']      = 'Grupo de atributos modificado com sucesso!';
-$_['text_list']         = 'Listando grupos de atributos';
+$_['text_list']         = 'A listar grupos de atributos';
 $_['text_add']          = 'Novo grupo de atributos';
-$_['text_edit']         = 'Editando grupo de atributos';
+$_['text_edit']         = 'A editar grupo de atributos';
 
 // Column
 $_['column_name']       = 'Grupo de atributos';

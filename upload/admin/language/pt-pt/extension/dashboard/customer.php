@@ -5,7 +5,7 @@ $_['heading_title']    = 'Total de clientes';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Total de clientes modificado com sucesso!';
-$_['text_edit']        = 'Editando Total de clientes';
+$_['text_edit']        = 'A editar Total de clientes';
 $_['text_view']        = 'Ver mais...';
 
 // Entry

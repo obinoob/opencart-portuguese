@@ -4,9 +4,9 @@ $_['heading_title']          = 'Estados';
 
 // Text
 $_['text_success']           = 'Estado modificado com sucesso!';
-$_['text_list']              = 'Listando estados';
+$_['text_list']              = 'A listar estados';
 $_['text_add']               = 'Novo estado';
-$_['text_edit']              = 'Editando estado';
+$_['text_edit']              = 'A editar estado';
 
 // Column
 $_['column_name']            = 'Estado';

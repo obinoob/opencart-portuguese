@@ -5,7 +5,7 @@ $_['heading_title']    = 'Google Hangouts';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Google Hangouts modificado com sucesso!';
-$_['text_edit']        = 'Editando Google Hangouts';
+$_['text_edit']        = 'A editar Google Hangouts';
 
 // Entry
 $_['entry_code']       = 'Código de integração';

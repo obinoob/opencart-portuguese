@@ -5,7 +5,7 @@ $_['heading_title']            = 'Carrinho de compras';
 // Text
 $_['text_success']             = 'Você adicionou <a href="%s">%s</a> ao seu <a href="%s">carrinho de compras</a>!';
 $_['text_remove']              = 'Você modificou seu carrinho de compras!';
-$_['text_login']               = 'Atenção: Você necessita <a href="%s">acessar</a> sua conta ou <a href="%s">cadastrar-se</a> para ver os preços!';
+$_['text_login']               = 'Atenção: Você necessita <a href="%s">aceder à</a> sua conta ou <a href="%s">registar-se</a> para ver os preços!';
 $_['text_items']               = '%s - %s';
 $_['text_points']              = 'Pontos: %s';
 $_['text_next']                = 'O que você deseja?';

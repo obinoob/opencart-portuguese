@@ -5,7 +5,7 @@ $_['heading_title']      = 'Pagamento na entrega';
 // Text
 $_['text_extension']     = 'Extensões';
 $_['text_success']       = 'Pagamento na entrega modificado com sucesso!';
-$_['text_edit']          = 'Editando Pagamento na entrega';
+$_['text_edit']          = 'A editar Pagamento na entrega';
 
 // Entry
 $_['entry_total']        = 'Total mínimo';

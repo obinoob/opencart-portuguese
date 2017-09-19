@@ -3,7 +3,7 @@
 $_['heading_title']                        = 'Assinaturas';
 
 // Text
-$_['text_account']                         = 'Minha conta';
+$_['text_account']                         = 'A minha conta';
 $_['text_recurring']                       = 'Assinaturas';
 $_['text_recurring_detail']                = 'Detalhes da assinatura';
 $_['text_order_recurring_id']              = 'Assintatura nº:';
@@ -37,7 +37,7 @@ $_['text_error']                           = 'A assinatura não foi encontrada!'
 $_['text_cancelled']                       = 'A assinatura foi cancelada';
 
 // Column
-$_['column_date_added']                    = 'Cadastro';
+$_['column_date_added']                    = 'Registo';
 $_['column_type']                          = 'Tipo';
 $_['column_amount']                        = 'Valor';
 $_['column_status']                        = 'Situação';

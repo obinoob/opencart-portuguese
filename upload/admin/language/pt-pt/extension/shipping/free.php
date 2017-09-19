@@ -5,7 +5,7 @@ $_['heading_title']    = 'Frete grátis';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Frete grátis modificado com sucesso!';
-$_['text_edit']        = 'Editando Frete grátis';
+$_['text_edit']        = 'A editar Frete grátis';
 
 // Entry
 $_['entry_total']      = 'Total mínimo';

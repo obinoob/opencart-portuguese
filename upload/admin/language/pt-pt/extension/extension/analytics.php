@@ -4,7 +4,7 @@ $_['heading_title']    = 'Estatísticas';
 
 // Text
 $_['text_success']     = 'Estatística modificada com sucesso!';
-$_['text_list']        = 'Listando Estatísticas';
+$_['text_list']        = 'A listar Estatísticas';
 
 // Column
 $_['column_name']      = 'Estatística';

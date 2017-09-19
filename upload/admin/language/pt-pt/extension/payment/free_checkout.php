@@ -5,7 +5,7 @@ $_['heading_title']      = 'Pagamento grátis';
 // Text
 $_['text_extension']     = 'Extensões';
 $_['text_success']       = 'Pagamento grátis modificado com sucesso!';
-$_['text_edit']          = 'Editando Pagamento grátis';
+$_['text_edit']          = 'A editar Pagamento grátis';
 
 // Entry
 $_['entry_order_status'] = 'Situação do pedido';

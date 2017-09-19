@@ -4,9 +4,9 @@ $_['heading_title']              = 'Pedidos';
 
 // Text
 $_['text_success']               = 'Pedidos modificados com sucesso!';
-$_['text_list']                  = 'Listando pedidos';
+$_['text_list']                  = 'A listar pedidos';
 $_['text_add']                   = 'Novo pedido';
-$_['text_edit']                  = 'Editando pedido';
+$_['text_edit']                  = 'A editar pedido';
 $_['text_filter']                = 'Filtros';
 $_['text_order_detail']          = 'Detalhes do pedido';
 $_['text_customer_detail']       = 'Detalhes do cliente';
@@ -57,7 +57,7 @@ $_['text_reward_added']          = 'Pontos adicionados!';
 $_['text_reward_removed']        = 'Pontos removidos!';
 $_['text_commission_added']      = 'Comissão adicionada!';
 $_['text_commission_removed']    = 'Comissão removida!';
-$_['text_restock']               = 'Os produtos retornaram para o estoque!';
+$_['text_restock']               = 'Os produtos retornaram para o stock!';
 $_['text_upload']                = 'O arquivo foi enviado!';
 $_['text_picklist']              = 'Nota de expedição';
 
@@ -65,7 +65,7 @@ $_['text_picklist']              = 'Nota de expedição';
 $_['column_order_id']            = 'Pedido nº';
 $_['column_customer']            = 'Cliente';
 $_['column_status']              = 'Situação';
-$_['column_date_added']          = 'Cadastro';
+$_['column_date_added']          = 'Registo';
 $_['column_date_modified']       = 'Modificação';
 $_['column_total']               = 'Total';
 $_['column_product']             = 'Produto';
@@ -119,7 +119,7 @@ $_['entry_voucher']              = 'Vale presentes';
 $_['entry_reward']               = 'Pontos';
 $_['entry_order_id']             = 'Pedido nº';
 $_['entry_total']                = 'Total';
-$_['entry_date_added']           = 'Cadastro';
+$_['entry_date_added']           = 'Registo';
 $_['entry_date_modified']        = 'Modificação';
 
 // Help

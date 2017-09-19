@@ -4,9 +4,9 @@ $_['heading_title']    = 'Unidades de medida';
 
 // Text
 $_['text_success']     = 'Unidade de medida modificada com sucesso!';
-$_['text_list']        = 'Listando unidades de medidas';
+$_['text_list']        = 'A listar unidades de medidas';
 $_['text_add']         = 'Nova unidade de medida';
-$_['text_edit']        = 'Editando unidade de medida';
+$_['text_edit']        = 'A editar unidade de medida';
 
 // Column
 $_['column_title']     = 'Unidade de medida';

@@ -5,7 +5,7 @@ $_['heading_title']    = 'Menu de lojas';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Menu de lojas modificado com sucesso!';
-$_['text_edit']        = 'Editando Menu de lojas';
+$_['text_edit']        = 'A editar Menu de lojas';
 
 // Entry
 $_['entry_admin']      = 'Somente para usuários admin';

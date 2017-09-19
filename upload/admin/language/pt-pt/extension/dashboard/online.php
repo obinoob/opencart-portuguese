@@ -5,7 +5,7 @@ $_['heading_title']    = 'Usuários online';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Usuários online modificado com sucesso!';
-$_['text_edit']        = 'Editando Usuários online';
+$_['text_edit']        = 'A editar Usuários online';
 $_['text_view']        = 'Ver mais...';
 
 // Entry

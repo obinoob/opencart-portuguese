@@ -5,7 +5,7 @@ $_['heading_title']    = 'Frete por peso';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Frete por peso modificado com sucesso!';
-$_['text_edit']        = 'Editando Frete por peso';
+$_['text_edit']        = 'A editar Frete por peso';
 
 // Entry
 $_['entry_rate']       = 'Valor por peso';

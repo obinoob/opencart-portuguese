@@ -4,9 +4,9 @@ $_['heading_title']             = 'Clientes';
 
 // Text
 $_['text_success']              = 'Cliente modificado com sucesso!';
-$_['text_list']                 = 'Listando clientes';
+$_['text_list']                 = 'A listar clientes';
 $_['text_add']                  = 'Novo cliente';
-$_['text_edit']                 = 'Editando cliente';
+$_['text_edit']                 = 'A editar cliente';
 $_['text_default']              = 'Padrão';
 $_['text_account']              = 'Detalhes do cliente';
 $_['text_password']             = 'Senha';
@@ -33,7 +33,7 @@ $_['column_name']               = 'Cliente';
 $_['column_email']              = 'E-mail';
 $_['column_customer_group']     = 'Tipo de cliente';
 $_['column_status']             = 'Situação';
-$_['column_date_added']         = 'Cadastro';
+$_['column_date_added']         = 'Registo';
 $_['column_comment']            = 'Comentário';
 $_['column_description']        = 'Detalhes';
 $_['column_amount']             = 'Valor';
@@ -66,7 +66,7 @@ $_['entry_affiliate']           = 'Afiliação';
 $_['entry_tracking']            = 'Código de rastreio';
 $_['entry_website']             = 'Site';
 $_['entry_commission']          = 'Comissão (%)';
-$_['entry_tax']                 = 'CPF';
+$_['entry_tax']                 = 'NIF';
 $_['entry_payment']             = 'Pagar por';
 $_['entry_cheque']              = 'Beneficiário';
 $_['entry_paypal']              = 'E-mail no PayPal';
@@ -81,7 +81,7 @@ $_['entry_amount']              = 'Valor';
 $_['entry_points']              = 'Pontos';
 $_['entry_name']                = 'Cliente';
 $_['entry_ip']                  = 'IP';
-$_['entry_date_added']          = 'Cadastro';
+$_['entry_date_added']          = 'Registo';
 
 // Help
 $_['help_safe']                 = 'Defina como Habilitado para evitar que este cliente seja pego pelo sistema anti-fraude';

@@ -4,9 +4,9 @@ $_['heading_title']    = 'Situações de pedidos';
 
 // Text
 $_['text_success']     = 'Situação de pedidos modificada com sucesso!';
-$_['text_list']        = 'Listando situações de pedidos';
+$_['text_list']        = 'A listar situações de pedidos';
 $_['text_add']         = 'Nova situação de pedidos';
-$_['text_edit']        = 'Editando situação de pedidos';
+$_['text_edit']        = 'A editar situação de pedidos';
 
 // Column
 $_['column_name']      = 'Situação de pedidos';

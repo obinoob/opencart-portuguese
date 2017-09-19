@@ -4,9 +4,9 @@ $_['heading_title']      = 'Opções';
 
 // Text
 $_['text_success']       = 'Opção modificada com sucesso!';
-$_['text_list']          = 'Listando opções';
+$_['text_list']          = 'A listar opções';
 $_['text_add']           = 'Nova opção';
-$_['text_edit']          = 'Editando opção';
+$_['text_edit']          = 'A editar opção';
 $_['text_choose']        = 'Com opção de seleção';
 $_['text_select']        = 'Menu de seleção';
 $_['text_radio']         = 'Única seleção';

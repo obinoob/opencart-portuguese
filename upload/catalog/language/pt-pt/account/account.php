@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']       = 'Minha conta';
+$_['heading_title']       = 'A minha conta';
 
 // Text
-$_['text_account']        = 'Minha conta';
-$_['text_my_account']     = 'Minha conta';
-$_['text_my_orders']      = 'Meus pedidos';
+$_['text_account']        = 'A minha conta';
+$_['text_my_account']     = 'A minha conta';
+$_['text_my_orders']      = 'Os meus pedidos';
 $_['text_my_affiliate']   = 'Dados de afiliado';
 $_['text_my_newsletter']  = 'Meu informativo';
 $_['text_edit']           = 'Informações da conta';

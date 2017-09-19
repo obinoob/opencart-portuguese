@@ -4,14 +4,14 @@ $_['heading_title']     = 'Downloads';
 
 // Text
 $_['text_success']      = 'Download modificado com sucesso!';
-$_['text_list']         = 'Listando downloads';
+$_['text_list']         = 'A listar downloads';
 $_['text_add']          = 'Novo download';
-$_['text_edit']         = 'Editando download';
+$_['text_edit']         = 'A editar download';
 $_['text_upload']       = 'O arquivo foi enviado!';
 
 // Column
 $_['column_name']       = 'Download';
-$_['column_date_added'] = 'Cadastro';
+$_['column_date_added'] = 'Registo';
 $_['column_action']     = 'Ação';
 
 // Entry

@@ -5,7 +5,7 @@ $_['heading_title']    = 'Google Analytics';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Google Analytics modificado com sucesso!';
-$_['text_edit']        = 'Editando Google Analytics';
+$_['text_edit']        = 'A editar Google Analytics';
 $_['text_signup']      = 'Acesse o site <a href="http://www.google.com/analytics/" target="_blank"><u>Google Analytics</u></a> e registre seu domínio para gerar o código de integração.';
 $_['text_default']     = 'Padrão';
 

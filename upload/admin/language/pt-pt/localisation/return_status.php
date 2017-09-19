@@ -4,9 +4,9 @@ $_['heading_title']    = 'Situações de devoluções';
 
 // Text
 $_['text_success']     = 'Situação de devoluções modificado com sucesso!';
-$_['text_list']        = 'Listando situações de devoluções';
+$_['text_list']        = 'A listar situações de devoluções';
 $_['text_add']         = 'Nova situação de devoluções';
-$_['text_edit']        = 'Editando situação de devoluções';
+$_['text_edit']        = 'A editar situação de devoluções';
 
 // Column
 $_['column_name']      = 'Situação de devoluções';

@@ -4,7 +4,7 @@ $_['heading_title']    = 'Mapa do site';
 
 // Text
 $_['text_special']     = 'Produtos em promoção';
-$_['text_account']     = 'Minha conta';
+$_['text_account']     = 'A minha conta';
 $_['text_edit']        = 'Detalhes da conta';
 $_['text_password']    = 'Modificar senha';
 $_['text_address']     = 'Endereços';

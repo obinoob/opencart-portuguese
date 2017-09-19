@@ -5,7 +5,7 @@ $_['heading_title']    = 'Carrossel de imagens';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Carrossel de imagens modificado com sucesso!';
-$_['text_edit']        = 'Editando Carrossel de imagens';
+$_['text_edit']        = 'A editar Carrossel de imagens';
 
 // Entry
 $_['entry_name']       = 'Título do módulo';

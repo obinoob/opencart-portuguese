@@ -4,7 +4,7 @@ $_['heading_title']     = 'Painéis';
 
 // Text
 $_['text_success']      = 'Painel modificado com sucesso!';
-$_['text_list']         = 'Listando painéis';
+$_['text_list']         = 'A listar painéis';
 
 // Column
 $_['column_name']       = 'Painel';

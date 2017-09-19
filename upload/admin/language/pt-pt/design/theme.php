@@ -4,7 +4,7 @@ $_['heading_title']     = 'Editor de temas';
 
 // Text
 $_['text_success']      = 'Tema modificado com sucesso!';
-$_['text_edit']         = 'Editando temas';
+$_['text_edit']         = 'A editar temas';
 $_['text_store']        = 'Selecione a loja';
 $_['text_template']     = 'Selecione o arquivo';
 $_['text_default']      = 'Padrão';

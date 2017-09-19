@@ -5,7 +5,7 @@ $_['heading_title']    = 'Menu de filtros';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Menu de filtros modificado com sucesso!';
-$_['text_edit']        = 'Editando Menu de filtros';
+$_['text_edit']        = 'A editar Menu de filtros';
 
 // Entry
 $_['entry_status']     = 'Situação';

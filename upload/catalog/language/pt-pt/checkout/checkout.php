@@ -17,8 +17,8 @@ $_['text_returning_customer']        = 'Já é cliente?';
 $_['text_checkout']                  = 'Opções:';
 $_['text_i_am_returning_customer']   = 'Se você já fez um pedido e cadastrou uma conta, coloque os dados da conta abaixo:';
 $_['text_register']                  = 'Cadastrar uma conta';
-$_['text_guest']                     = 'Não cadastrar uma conta';
-$_['text_register_account']          = 'Ao cadastrar sua conta, você será capaz de comprar mais rápido, ficar atualizado sobre a situação de um pedido e acompanhar o histórico dos pedidos que você já fez.';
+$_['text_guest']                     = 'Não registar uma conta';
+$_['text_register_account']          = 'Ao registar a sua conta, você será capaz de comprar mais rápido, ficar atualizado sobre a situação de um pedido e acompanhar o histórico dos pedidos que você já fez.';
 $_['text_forgotten']                 = 'Solicitar nova senha';
 $_['text_your_details']              = 'Seus dados';
 $_['text_your_address']              = 'Seu endereço';
@@ -71,7 +71,7 @@ $_['entry_shipping']                 = 'O endereço para entrega é o mesmo que 
 // Error
 $_['error_warning']                  = 'Houve um problema ao processar o seu pagamento, por isso, seu pedido não foi concluído. Você pode tentar novamente utilizando outra forma de pagamento ou entre em <a href="%s">contato</a> e informe os detalhes do pedido.';
 $_['error_login']                    = 'Atenção: Seus dados de acesso não estão corretos. Se você tem certeza que o e-mail está correto, solicite uma nova senha.';
-$_['error_attempts']                 = 'Atenção: Você excedeu o limite de tentativas de acesso. Por segurança, tente acessar novamente após 1 hora.';
+$_['error_attempts']                 = 'Atenção: Você excedeu o limite de tentativas de acesso. Por segurança, tente aceder novamente após 1 hora.';
 $_['error_approved']                 = 'Atenção: Sua conta ainda não foi aprovada. Quando sua conta for aprovada, você receberá um e-mail de confirmação.';
 $_['error_exists']                   = 'Atenção: Este e-mail já está cadastrado!';
 $_['error_firstname']                = 'O nome deve ter entre 2 e 32 caracteres!';

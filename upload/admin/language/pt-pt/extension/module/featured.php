@@ -5,7 +5,7 @@ $_['heading_title']    = 'Produtos em destaque';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Produtos em destaque modificado com sucesso!';
-$_['text_edit']        = 'Editando Produtos em destaque';
+$_['text_edit']        = 'A editar Produtos em destaque';
 
 // Entry
 $_['entry_name']       = 'Título do módulo';

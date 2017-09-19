@@ -4,7 +4,7 @@ $_['heading_title']    = 'Antifraudes';
 
 // Text
 $_['text_success']     = 'Antifraude modificado com sucesso!';
-$_['text_list']        = 'Listando antifraude';
+$_['text_list']        = 'A listar antifraude';
 
 // Column
 $_['column_name']      = 'Antifraude';

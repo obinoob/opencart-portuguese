@@ -22,6 +22,6 @@ $_['text_quantity']         = 'Quantidade';
 $_['text_price']            = 'Preço';
 $_['text_order_total']      = 'Total do pedido';
 $_['text_total']            = 'Total';
-$_['text_download']         = 'Assim que o pagamento do pedido for confirmado, você poderá acessar o link abaixo para realizar o download:';
+$_['text_download']         = 'Assim que o pagamento do pedido for confirmado, você poderá aceder o link abaixo para realizar o download:';
 $_['text_comment']          = 'O comentário para o seu pedido é:';
 $_['text_footer']           = 'Caso tenha alguma dúvida, responda este e-mail.';

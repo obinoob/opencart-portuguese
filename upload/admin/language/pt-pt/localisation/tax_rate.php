@@ -4,9 +4,9 @@ $_['heading_title']        = 'Tipos de impostos';
 
 // Text
 $_['text_success']         = 'Tipo de imposto modificado com sucesso!';
-$_['text_list']            = 'Listando tipos de impostos';
+$_['text_list']            = 'A listar tipos de impostos';
 $_['text_add']             = 'Novo tipo de imposto';
-$_['text_edit']            = 'Editando tipo de imposto';
+$_['text_edit']            = 'A editar tipo de imposto';
 $_['text_percent']         = 'Percentual';
 $_['text_amount']          = 'Fixo';
 
@@ -15,7 +15,7 @@ $_['column_name']          = 'Tipo de imposto';
 $_['column_rate']          = 'Valor';
 $_['column_type']          = 'Cálculo';
 $_['column_geo_zone']      = 'Região geográfica';
-$_['column_date_added']    = 'Cadastro';
+$_['column_date_added']    = 'Registo';
 $_['column_date_modified'] = 'Modificação';
 $_['column_action']        = 'Ação';
 

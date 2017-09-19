@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Gerador de links';
 
 // Text
-$_['text_account']     = 'Minha conta';
+$_['text_account']     = 'A minha conta';
 $_['text_description'] = 'Para ter certeza que suas indicações vão ser registradas corretamente, gere os links para nossos produtos através do formulário abaixo:';
 
 // Entry

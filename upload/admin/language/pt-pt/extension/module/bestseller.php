@@ -5,7 +5,7 @@ $_['heading_title']    = 'Produtos mais vendidos';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Produtos mais vendidos modificado com sucesso!';
-$_['text_edit']        = 'Editando Produtos mais vendidos';
+$_['text_edit']        = 'A editar Produtos mais vendidos';
 
 // Entry
 $_['entry_name']       = 'Título do módulo';

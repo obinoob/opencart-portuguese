@@ -3,7 +3,7 @@
 $_['heading_title']  = 'Redefinir sua senha';
 
 // Text
-$_['text_account']   = 'Minha conta';
+$_['text_account']   = 'A minha conta';
 $_['text_password']  = 'Digite a nova senha que você deseja usar.';
 $_['text_success']   = 'Sua senha foi atualizada com sucesso.';
 

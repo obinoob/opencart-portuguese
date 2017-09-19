@@ -4,9 +4,9 @@ $_['heading_title']    = 'Motivos de devoluções';
 
 // Text
 $_['text_success']     = 'Motivo de devoluções modificado com sucesso!';
-$_['text_list']        = 'Listando motivos de devoluções';
+$_['text_list']        = 'A listar motivos de devoluções';
 $_['text_add']         = 'Novo motivo de devoluções';
-$_['text_edit']        = 'Editando motivo de devoluções';
+$_['text_edit']        = 'A editar motivo de devoluções';
 
 // Column
 $_['column_name']      = 'Motivo de devoluções';

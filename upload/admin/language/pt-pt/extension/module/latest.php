@@ -5,7 +5,7 @@ $_['heading_title']    = 'Produtos novos';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Produtos novos modificado com sucesso!';
-$_['text_edit']        = 'Editando Produtos novos';
+$_['text_edit']        = 'A editar Produtos novos';
 
 // Entry
 $_['entry_name']       = 'Título do módulo';

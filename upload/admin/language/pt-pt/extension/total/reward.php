@@ -5,7 +5,7 @@ $_['heading_title']    = 'Pontos';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Pontos modificado com sucesso!';
-$_['text_edit']        = 'Editando Pontos';
+$_['text_edit']        = 'A editar Pontos';
 
 // Entry
 $_['entry_status']     = 'Situação';

@@ -5,7 +5,7 @@ $_['heading_title']     = 'Conteúdo HTML';
 // Text
 $_['text_extension']    = 'Extensões';
 $_['text_success']      = 'Conteúdo HTML modificado com sucesso!';
-$_['text_edit']         = 'Editando Conteúdo HTML';
+$_['text_edit']         = 'A editar Conteúdo HTML';
 
 // Entry
 $_['entry_name']        = 'Título do módulo';

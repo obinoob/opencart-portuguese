@@ -4,7 +4,7 @@ $_['heading_title']         = 'Estatísticas';
 
 // Text
 $_['text_success']          = 'Estatística modificada com sucesso!';
-$_['text_list']             = 'Listando estatísticas';
+$_['text_list']             = 'A listar estatísticas';
 $_['text_order_sale']       = 'Pedidos';
 $_['text_order_processing'] = 'Pedidos sendo processados';
 $_['text_order_complete']   = 'Pedidos finalizados';
@@ -12,7 +12,7 @@ $_['text_order_other']      = 'Pedidos em outras situações';
 $_['text_returns']          = 'Devoluções';
 $_['text_customer']         = 'Clientes aguardando aprovação';
 $_['text_affiliate']        = 'Afiliados aguardando aprovação';
-$_['text_product']          = 'Produtos sem estoque';
+$_['text_product']          = 'Produtos sem stock';
 $_['text_review']           = 'Comentários pendentes';
 
 // Column

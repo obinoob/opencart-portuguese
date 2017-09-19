@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Solicitar devolução';
 
 // Text
-$_['text_account']       = 'Minha conta';
+$_['text_account']       = 'A minha conta';
 $_['text_return']        = 'Informações da devolução';
 $_['text_return_detail'] = 'Detalhes da devolução';
 $_['text_description']   = 'Preencha o formulário abaixo com as informações do seu pedido e do produto que deseja devolver.';
@@ -15,7 +15,7 @@ $_['text_return_id']     = 'Devolução nº:';
 $_['text_order_id']      = 'Pedido nº:';
 $_['text_date_ordered']  = 'Data do pedido:';
 $_['text_status']        = 'Situação:';
-$_['text_date_added']    = 'Cadastro:';
+$_['text_date_added']    = 'Registo:';
 $_['text_comment']       = 'Comentários da devolução';
 $_['text_history']       = 'Histórico da devolução';
 $_['text_empty']         = 'Você ainda não fez uma solicitação de devolução.';
@@ -25,7 +25,7 @@ $_['text_agree']         = 'Eu li e concordo com os <a href="%s" class="agree"><
 $_['column_return_id']   = 'Devolução nº';
 $_['column_order_id']    = 'Pedido nº';
 $_['column_status']      = 'Situação';
-$_['column_date_added']  = 'Cadastro';
+$_['column_date_added']  = 'Registo';
 $_['column_customer']    = 'Cliente';
 $_['column_product']     = 'Produto';
 $_['column_model']       = 'Modelo';
@@ -38,7 +38,7 @@ $_['column_action']      = 'Ação';
 
 // Entry
 $_['entry_order_id']     = 'Pedido nº';
-$_['entry_date_ordered'] = 'Cadastro';
+$_['entry_date_ordered'] = 'Registo';
 $_['entry_firstname']    = 'Nome';
 $_['entry_lastname']     = 'Sobrenome';
 $_['entry_email']        = 'E-mail';

@@ -4,17 +4,17 @@ $_['heading_title']        = 'API';
 
 // Text
 $_['text_success']         = 'API modificada com sucesso!';
-$_['text_list']            = 'Listando API';
+$_['text_list']            = 'A listar API';
 $_['text_add']             = 'Nova API';
-$_['text_edit']            = 'Editando API';
-$_['text_ip']              = 'Abaixo, você pode criar uma lista de IPs permitidos para acessar a API. Seu IP atual é %s';
+$_['text_edit']            = 'A editar API';
+$_['text_ip']              = 'Abaixo, você pode criar uma lista de IPs permitidos para aceder a API. Seu IP atual é %s';
 
 // Column
 $_['column_username']      = 'Usuário da API';
 $_['column_status']        = 'Situação';
 $_['column_token']         = 'Token';
 $_['column_ip']            = 'IP';
-$_['column_date_added']    = 'Cadastro';
+$_['column_date_added']    = 'Registo';
 $_['column_date_modified'] = 'Modificação';
 $_['column_action']        = 'Ação';
 

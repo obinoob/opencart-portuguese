@@ -4,9 +4,9 @@ $_['heading_title']     = 'Idiomas';
 
 // Text
 $_['text_success']      = 'Idioma modificado com sucesso!';
-$_['text_list']         = 'Listando idiomas';
+$_['text_list']         = 'A listar idiomas';
 $_['text_add']          = 'Novo idioma';
-$_['text_edit']         = 'Editando idioma';
+$_['text_edit']         = 'A editar idioma';
 
 // Column
 $_['column_name']       = 'Idioma';

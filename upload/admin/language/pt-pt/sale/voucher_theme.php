@@ -4,9 +4,9 @@ $_['heading_title']     = 'Temas dos vales presentes';
 
 // Text
 $_['text_success']      = 'Tema modificado com sucesso!';
-$_['text_list']         = 'Listando temas dos vales presentes';
+$_['text_list']         = 'A listar temas dos vales presentes';
 $_['text_add']          = 'Novo tema';
-$_['text_edit']         = 'Editando tema';
+$_['text_edit']         = 'A editar tema';
 
 // Column
 $_['column_name']       = 'Nome do tema';

@@ -4,7 +4,7 @@ $_['heading_title']     = 'Pagamentos';
 
 // Text
 $_['text_success']      = 'Pagamento modificado com sucesso!';
-$_['text_list']         = 'Listando pagamentos';
+$_['text_list']         = 'A listar pagamentos';
 $_['text_recommended']  = 'Soluções recomendadas';
 
 // Column

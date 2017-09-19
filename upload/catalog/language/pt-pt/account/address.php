@@ -3,10 +3,10 @@
 $_['heading_title']      = 'Endereços';
 
 // Text
-$_['text_account']       = 'Minha conta';
+$_['text_account']       = 'A minha conta';
 $_['text_address_book']  = 'Lista de endereços';
 $_['text_address_add']   = 'Novo endereço';
-$_['text_address_edit']  = 'Editando endereço';
+$_['text_address_edit']  = 'A editar endereço';
 $_['text_add']           = 'O endereço foi cadastrado.';
 $_['text_edit']          = 'O endereço foi atualizado.';
 $_['text_delete']        = 'O endereço foi excluído.';

@@ -5,7 +5,7 @@ $_['heading_title']             = 'Informações da conta';
 // Text
 $_['text_account']              = 'Programa de afiliados';
 $_['text_affiliate']            = 'Afiliado';
-$_['text_my_affiliate']         = 'Minha conta de afiliado';
+$_['text_my_affiliate']         = 'A minha conta de afiliado';
 $_['text_payment']              = 'Informações financeiras';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
@@ -16,7 +16,7 @@ $_['text_agree']                = 'Você precisa aceitar o contrato de <a href="
 // Entry
 $_['entry_company']             = 'Referência';
 $_['entry_website']             = 'Site';
-$_['entry_tax']                 = 'CPF';
+$_['entry_tax']                 = 'NIF';
 $_['entry_payment']             = 'Receber por';
 $_['entry_cheque']              = 'Beneficiário';
 $_['entry_paypal']              = 'E-mail no payPal';

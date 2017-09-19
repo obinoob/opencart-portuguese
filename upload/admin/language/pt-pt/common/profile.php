@@ -4,7 +4,7 @@ $_['heading_title']         = 'Meu perfil';
 
 // Text
 $_['text_success']          = 'Perfil modificado com sucesso!';
-$_['text_edit']             = 'Editando perfil';
+$_['text_edit']             = 'A editar perfil';
 
 // Column
 $_['column_username']       = 'Usuário';

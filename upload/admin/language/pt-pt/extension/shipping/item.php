@@ -5,7 +5,7 @@ $_['heading_title']    = 'Frete por itens';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Frete por itens modificado com sucesso!';
-$_['text_edit']        = 'Editando Frete por itens';
+$_['text_edit']        = 'A editar Frete por itens';
 
 // Entry
 $_['entry_cost']       = 'Valor por item';

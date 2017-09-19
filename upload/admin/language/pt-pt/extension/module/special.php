@@ -5,7 +5,7 @@ $_['heading_title']    = 'Produtos em promoção';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Produtos em promoção modificado com sucesso!';
-$_['text_edit']        = 'Editando Produtos em promoção';
+$_['text_edit']        = 'A editar Produtos em promoção';
 
 // Entry
 $_['entry_name']       = 'Título do módulo';

@@ -4,9 +4,9 @@ $_['heading_title']          = 'Departamentos';
 
 // Text
 $_['text_success']           = 'Departamento modificado com sucesso!';
-$_['text_list']              = 'Listando departamentos';
+$_['text_list']              = 'A listar departamentos';
 $_['text_add']               = 'Novo departamento';
-$_['text_edit']              = 'Editando departamento';
+$_['text_edit']              = 'A editar departamento';
 $_['text_default']           = 'Padrão';
 $_['text_keyword']           = 'Não utilize espaços, substitua os espaços por - (hífen), e certifique-se que a palavra é exclusiva em toda a loja.';
 

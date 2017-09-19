@@ -4,7 +4,7 @@ $_['heading_title']    = 'Temas';
 
 // Text
 $_['text_success']     = 'Tema modificado com sucesso!';
-$_['text_list']        = 'Listando temas';
+$_['text_list']        = 'A listar temas';
 
 // Column
 $_['column_name']      = 'Tema';

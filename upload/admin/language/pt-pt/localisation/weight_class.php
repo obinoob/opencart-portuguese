@@ -4,9 +4,9 @@ $_['heading_title']    = 'Unidades de pesos';
 
 // Text
 $_['text_success']     = 'Unidade de peso modificada com sucesso!';
-$_['text_list']        = 'Listando unidades de pesos';
+$_['text_list']        = 'A listar unidades de pesos';
 $_['text_add']         = 'Nova unidade de peso';
-$_['text_edit']        = 'Editando unidade de peso';
+$_['text_edit']        = 'A editar unidade de peso';
 
 // Column
 $_['column_title']     = 'Unidade de peso';

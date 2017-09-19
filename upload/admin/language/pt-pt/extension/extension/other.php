@@ -4,7 +4,7 @@ $_['heading_title']    = 'Outros';
 
 // Text
 $_['text_success']     = 'Outros modificado com sucesso!';
-$_['text_list']        = 'Listando outros';
+$_['text_list']        = 'A listar outros';
 
 // Column
 $_['column_name']      = 'Outros';

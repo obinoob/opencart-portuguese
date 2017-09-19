@@ -5,7 +5,7 @@ $_['heading_title']                = 'Atividades recentes';
 // Text
 $_['text_extension']               = 'Extensões';
 $_['text_success']                 = 'Atividades recentes modificada com sucesso!';
-$_['text_edit']                    = 'Editando Atividades recentes';
+$_['text_edit']                    = 'A editar Atividades recentes';
 $_['text_activity_register']       = '<a href="customer_id=%d">%s</a> cadastrou uma conta.';
 $_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> atualizou os detalhes da conta.';
 $_['text_activity_password']       = '<a href="customer_id=%d">%s</a> solicitou uma nova senha.';

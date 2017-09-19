@@ -4,7 +4,7 @@ $_['heading_title']     = 'Fretes';
 
 // Text
 $_['text_success']      = 'Frete modificado com sucesso!';
-$_['text_list']         = 'Listando fretes';
+$_['text_list']         = 'A listar fretes';
 
 // Column
 $_['column_name']       = 'Frete';

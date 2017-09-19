@@ -4,7 +4,7 @@ $_['heading_title']    = 'Antispam';
 
 // Text
 $_['text_success']     = 'Antispam modificado com sucesso!';
-$_['text_list']        = 'Listando Antispam';
+$_['text_list']        = 'A listar Antispam';
 
 // Column
 $_['column_name']      = 'Antispam';

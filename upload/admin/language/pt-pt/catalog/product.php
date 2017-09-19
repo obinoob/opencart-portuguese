@@ -4,9 +4,9 @@ $_['heading_title']          = 'Produtos';
 
 // Text
 $_['text_success']           = 'Produto modificado com sucesso!';
-$_['text_list']              = 'Listando produtos';
+$_['text_list']              = 'A listar produtos';
 $_['text_add']               = 'Novo produto';
-$_['text_edit']              = 'Editando produto';
+$_['text_edit']              = 'A editar produto';
 $_['text_filter']            = 'Filtros';
 $_['text_plus']              = '+';
 $_['text_minus']             = '-';
@@ -52,7 +52,7 @@ $_['entry_price']            = 'Preço';
 $_['entry_tax_class']        = 'Grupo de impostos';
 $_['entry_points']           = 'Pontos';
 $_['entry_option_points']    = 'Pontos';
-$_['entry_subtract']         = 'Reduzir estoque?';
+$_['entry_subtract']         = 'Reduzir stock?';
 $_['entry_weight_class']     = 'Unidade de peso';
 $_['entry_weight']           = 'Peso';
 $_['entry_dimension']        = 'Dimensões (C x L x A)';
@@ -84,7 +84,7 @@ $_['entry_layout']           = 'Layout do produto';
 $_['entry_recurring']        = 'Tipo de assinatura';
 
 // Help
-$_['help_sku']               = 'É o código ligado à logística de armazém, e designa os diferentes produtos do estoque.';
+$_['help_sku']               = 'É o código ligado à logística de armazém, e designa os diferentes produtos do stock.';
 $_['help_upc']               = 'É o mesmo que UPC, que significa Código Universal de Produtos.';
 $_['help_ean']               = 'Significa Número de Artigo Europeu';
 $_['help_jan']               = 'Significa Número de Artigo Japonês';
@@ -92,7 +92,7 @@ $_['help_isbn']              = 'Significa Número Padrão Internacional de Livro
 $_['help_mpn']               = 'Significa Número da Peça do Fabricante. É o código usado pelos fabricantes para identificar os seus produtos.';
 $_['help_manufacturer']      = '(autocompletar)';
 $_['help_minimum']           = 'Forçar uma quantidade mínima a ser vendida.';
-$_['help_stock_status']      = 'Situação do produto quando está fora de estoque';
+$_['help_stock_status']      = 'Situação do produto quando está fora de stock';
 $_['help_points']            = 'Número de pontos necessários para comprar este produto. Se você não deseja que este produto seja comprado com pontos, coloque 0.';
 $_['help_category']          = '(autocompletar)';
 $_['help_filter']            = '(autocompletar)';

@@ -5,7 +5,7 @@ $_['heading_title']    = 'Cupom';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Cupom modificado com sucesso!';
-$_['text_edit']        = 'Editando Cupom';
+$_['text_edit']        = 'A editar Cupom';
 
 // Entry
 $_['entry_status']     = 'Situação';

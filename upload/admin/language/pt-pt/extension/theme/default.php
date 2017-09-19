@@ -5,7 +5,7 @@ $_['heading_title']                    = 'Tema padrão';
 // Text
 $_['text_extension']                   = 'Extensões';
 $_['text_success']                     = 'Tema padrão modificado com sucesso!';
-$_['text_edit']                        = 'Editando Tema padrão';
+$_['text_edit']                        = 'A editar Tema padrão';
 $_['text_general']                     = 'Geral';
 $_['text_product']                     = 'Produtos';
 $_['text_image']                       = 'Imagens';

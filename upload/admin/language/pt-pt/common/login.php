@@ -16,4 +16,4 @@ $_['button_login']   = 'Acessar';
 
 // Error
 $_['error_login']    = 'Os dados de acesso não são válidos.';
-$_['error_token']    = 'O token de sessão é inválido. Tente acessar novamente.';
+$_['error_token']    = 'O token de sessão é inválido. Tente aceder novamente.';

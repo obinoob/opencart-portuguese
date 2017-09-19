@@ -4,7 +4,7 @@ $_['heading_title']     = 'Total do pedido';
 
 // Text
 $_['text_success']      = 'Total do pedido modificado com sucesso!';
-$_['text_list']         = 'Listando total do pedido';
+$_['text_list']         = 'A listar total do pedido';
 
 // Column
 $_['column_name']       = 'Total do pedido';

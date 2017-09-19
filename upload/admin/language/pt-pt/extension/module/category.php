@@ -5,7 +5,7 @@ $_['heading_title']    = 'Menu de departamentos';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Menu de departamentos modificado com sucesso!';
-$_['text_edit']        = 'Editando Menu de departamentos';
+$_['text_edit']        = 'A editar Menu de departamentos';
 
 // Entry
 $_['entry_status']     = 'Situação';

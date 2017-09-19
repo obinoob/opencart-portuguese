@@ -4,9 +4,9 @@ $_['heading_title']    = 'Localizações das lojas';
 
 // Text
 $_['text_success']     = 'Localização modificada com sucesso!';
-$_['text_list']        = 'Listando localizações das lojas';
+$_['text_list']        = 'A listar localizações das lojas';
 $_['text_add']         = 'Nova localização';
-$_['text_edit']        = 'Editando localização';
+$_['text_edit']        = 'A editar localização';
 $_['text_default']     = 'Principal';
 $_['text_time']        = 'Funcionamento';
 $_['text_geocode']     = 'A geolocalização não funcionou pelo seguinte motivo:';

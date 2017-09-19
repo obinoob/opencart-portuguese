@@ -4,9 +4,9 @@ $_['heading_title']         = 'Tipos de assinatura';
 
 // Text
 $_['text_success']          = 'Tipo de assinatura modificada com sucesso!';
-$_['text_list']             = 'Listando tipos de assinatura';
+$_['text_list']             = 'A listar tipos de assinatura';
 $_['text_add']              = 'Novo tipo de assinatura';
-$_['text_edit']             = 'Editando tipo de assinatura';
+$_['text_edit']             = 'A editar tipo de assinatura';
 $_['text_day']              = 'Diária';
 $_['text_week']             = 'Semanal';
 $_['text_semi_month']       = 'Quinzenal';

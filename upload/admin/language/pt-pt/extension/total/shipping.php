@@ -5,7 +5,7 @@ $_['heading_title']    = 'Frete';
 // Text
 $_['text_extension']   = 'Extensões';
 $_['text_success']     = 'Frete modificado com sucesso!';
-$_['text_edit']        = 'Editando Frete';
+$_['text_edit']        = 'A editar Frete';
 
 // Entry
 $_['entry_estimator']  = 'Calcular frete';

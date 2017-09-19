@@ -4,7 +4,7 @@ $_['heading_title']    = 'Menu';
 
 // Text
 $_['text_success']     = 'Menu modificado com sucesso!';
-$_['text_list']        = 'Listando menu';
+$_['text_list']        = 'A listar menu';
 
 // Column
 $_['column_name']      = 'Menu';
