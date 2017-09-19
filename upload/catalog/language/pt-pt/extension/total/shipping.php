@@ -10,10 +10,10 @@ $_['text_shipping_method'] = 'Selecione o frete que deseja utilizar.';
 // Entry
 $_['entry_country']        = 'País';
 $_['entry_zone']           = 'Estado';
-$_['entry_postcode']       = 'CEP';
+$_['entry_postcode']       = 'Código Postal';
 
 // Error
-$_['error_postcode']       = 'O CEP deve ter no mínimo 8 caracteres!';
+$_['error_postcode']       = 'O Código Postal deve ter no mínimo 8 caracteres!';
 $_['error_country']        = 'Selecione o país!';
 $_['error_zone']           = 'Selecione o estado!';
 $_['error_shipping']       = 'Atenção: Selecione um frete!';

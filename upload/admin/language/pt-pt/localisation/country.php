@@ -19,11 +19,11 @@ $_['entry_name']              = 'País';
 $_['entry_iso_code_2']        = 'Código ISO (2)';
 $_['entry_iso_code_3']        = 'Código ISO (3)';
 $_['entry_address_format']    = 'Formatação do endereço';
-$_['entry_postcode_required'] = 'CEP obrigatório?';
+$_['entry_postcode_required'] = 'Código Postal obrigatório?';
 $_['entry_status']            = 'Situação';
 
 // Help
-$_['help_address_format']     = 'Nome = {firstname}<br />Sobrenome = {lastname}<br />Local = {company}<br />Endereço = {address_1}<br />Bairro = {address_2}<br />Cidade = {city}<br />CEP = {postcode}<br />Estado = {zone}<br />UF = {zone_code}<br />País = {country}';
+$_['help_address_format']     = 'Nome = {firstname}<br />Sobrenome = {lastname}<br />Local = {company}<br />Endereço = {address_1}<br />Bairro = {address_2}<br />Cidade = {city}<br />Código Postal = {postcode}<br />Estado = {zone}<br />UF = {zone_code}<br />País = {country}';
 
 // Error
 $_['error_permission']        = 'Atenção: Você não tem permissão para modificar os países!';
