@@ -12,7 +12,7 @@ $_['entry_username'] = 'Usuário';
 $_['entry_password'] = 'Senha';
 
 // Button
-$_['button_login']   = 'Acessar';
+$_['button_login']   = 'Aceder';
 
 // Error
 $_['error_login']    = 'Os dados de acesso não são válidos.';
