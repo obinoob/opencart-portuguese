@@ -8,7 +8,7 @@ $_['text_register']        = 'Registe-se';
 $_['text_account_already'] = 'Se você já tem uma conta na nossa loja, faça login com os dados da sua conta <a href="%s">clicando aqui</a>.';
 $_['text_your_details']    = 'Seus dados de contato';
 $_['text_newsletter']      = 'Novidades, ofertas e promoções por e-mail';
-$_['text_your_password']   = 'Sua senha de acesso';
+$_['text_your_password']   = 'A sua senha de acesso';
 $_['text_agree']           = 'Eu li e concordo com o contrato de <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry

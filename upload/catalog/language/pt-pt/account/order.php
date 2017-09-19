@@ -16,7 +16,7 @@ $_['text_payment_method']   = 'Método para pagamento:';
 $_['text_comment']          = 'Comentários do pedido';
 $_['text_history']          = 'Histórico do pedido';
 $_['text_success']          = 'Você adicionou <a href="%s">%s</a> no seu <a href="%s">carrinho de compras</a>.';
-$_['text_empty']            = 'Você ainda não possui pedidos cadastrados.';
+$_['text_empty']            = 'Você ainda não tem pedidos registados.';
 $_['text_error']            = 'O pedido que você está a procurar não foi encontrado!';
 
 // Column
