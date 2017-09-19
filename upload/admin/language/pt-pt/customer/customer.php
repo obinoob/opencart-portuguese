@@ -93,7 +93,7 @@ $_['help_points']               = 'Use o sinal de menos para remover pontos';
 // Error
 $_['error_warning']             = 'Atenção: Faltou preencher alguma informação, verifique todos os campos!';
 $_['error_permission']          = 'Atenção: Você não tem permissão para modificar os clientes!';
-$_['error_exists']              = 'Atenção: O e-mail já está cadastrado!';
+$_['error_exists']              = 'Atenção: O e-mail já está registado!';
 $_['error_firstname']           = 'O nome deve ter entre 1 e 32 caracteres!';
 $_['error_lastname']            = 'O sobrenome deve ter entre 1 e 32 caracteres!';
 $_['error_email']               = 'O e-mail não é válido!';

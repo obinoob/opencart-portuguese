@@ -27,7 +27,7 @@ $_['help_status']       = 'Habilitar/Desabilitar a exibição do idioma na loja.
 
 // Error
 $_['error_permission']  = 'Atenção: Você não tem permissão para modificar os idiomas!';
-$_['error_exists']      = 'Atenção: O idioma já está cadastrado!';
+$_['error_exists']      = 'Atenção: O idioma já está registado!';
 $_['error_name']        = 'Idioma deve ter entre 3 e 32 caracteres!';
 $_['error_code']        = 'Código deve ter pelo menos 2 caracteres!';
 $_['error_locale']      = 'Localidade é obrigatório!';

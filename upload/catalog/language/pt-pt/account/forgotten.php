@@ -5,7 +5,7 @@ $_['heading_title']   = 'Solicitar nova senha';
 // Text
 $_['text_account']    = 'A minha conta';
 $_['text_forgotten']  = 'Solicitar nova senha';
-$_['text_your_email'] = 'Seu e-mail já cadastrado na nossa loja';
+$_['text_your_email'] = 'Seu e-mail já registado na nossa loja';
 $_['text_email']      = 'Digite o e-mail associado à sua conta. Depois pressione o botão <b>Continuar</b> para enviarmos um e-mail para você.';
 $_['text_success']    = 'Enviamos para o seu e-mail a nova senha.';
 

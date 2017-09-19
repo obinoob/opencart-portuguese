@@ -25,7 +25,7 @@ $_['text_your_address']              = 'O seu endereço';
 $_['text_your_password']             = 'A sua senha de acesso';
 $_['text_agree']                     = 'Eu li e concordo com o contrato de <a href="%s" class="agree"><b>%s</b></a>';
 $_['text_address_new']               = 'Utilizar um novo endereço';
-$_['text_address_existing']          = 'Utilizar um endereço cadastrado';
+$_['text_address_existing']          = 'Utilizar um endereço registado';
 $_['text_shipping_method']           = 'Selecione como deseja receber o seu pedido.';
 $_['text_payment_method']            = 'Selecione como deseja pagar o seu pedido.';
 $_['text_comments']                  = 'Adicione um comentários sobre seu pedido:';
@@ -73,7 +73,7 @@ $_['error_warning']                  = 'Houve um problema ao processar o seu pag
 $_['error_login']                    = 'Atenção: Seus dados de acesso não estão corretos. Se você tem certeza que o e-mail está correto, solicite uma nova senha.';
 $_['error_attempts']                 = 'Atenção: Você excedeu o limite de tentativas de acesso. Por segurança, tente aceder novamente após 1 hora.';
 $_['error_approved']                 = 'Atenção: Sua conta ainda não foi aprovada. Quando sua conta for aprovada, você receberá um e-mail de confirmação.';
-$_['error_exists']                   = 'Atenção: Este e-mail já está cadastrado!';
+$_['error_exists']                   = 'Atenção: Este e-mail já está registado!';
 $_['error_firstname']                = 'O nome deve ter entre 2 e 32 caracteres!';
 $_['error_lastname']                 = 'O sobrenome deve ter entre 2 e 32 caracteres!';
 $_['error_email']                    = 'O e-mail não é válido!';
