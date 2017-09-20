@@ -7,7 +7,7 @@ $_['text_success']          = 'Aprovação modificada com sucesso!';
 $_['text_list']             = 'A listar clientes para aprovação';
 $_['text_default']          = 'Padrão';
 $_['text_customer']         = 'Cliente';
-$_['text_affiliate']        = 'Afiliado';
+$_['text_affiliate']        = 'Associado';
 
 // Column
 $_['column_name']           = 'Cliente';

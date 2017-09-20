@@ -12,7 +12,7 @@ $_['text_customer_all']    = 'Todos os clientes';
 $_['text_customer_group']  = 'Tipo de cliente';
 $_['text_customer']        = 'Clientes';
 $_['text_affiliate_all']   = 'Todos os afiliados';
-$_['text_affiliate']       = 'Afiliados';
+$_['text_affiliate']       = 'Associados';
 $_['text_product']         = 'Produtos comprados';
 
 // Entry
@@ -20,7 +20,7 @@ $_['entry_store']          = 'De';
 $_['entry_to']             = 'Para';
 $_['entry_customer_group'] = 'Tipo de cliente';
 $_['entry_customer']       = 'Cliente';
-$_['entry_affiliate']      = 'Afiliado';
+$_['entry_affiliate']      = 'Associado';
 $_['entry_product']        = 'Produtos';
 $_['entry_subject']        = 'Assunto';
 $_['entry_message']        = 'Mensagem';

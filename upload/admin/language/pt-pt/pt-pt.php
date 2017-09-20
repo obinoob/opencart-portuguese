@@ -101,7 +101,7 @@ $_['button_order_recurring']        = 'Visualizar assinatura';
 $_['button_buy']                    = 'Comprar';
 
 // Tab
-$_['tab_affiliate']                 = 'Afiliado';
+$_['tab_affiliate']                 = 'Associado';
 $_['tab_address']                   = 'Endereço';
 $_['tab_additional']                = 'Adicional';
 $_['tab_admin']                     = 'Admin';

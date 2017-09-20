@@ -4,7 +4,7 @@ $_['heading_title']             = 'Informações da conta';
 
 // Text
 $_['text_account']              = 'Programa de afiliados';
-$_['text_affiliate']            = 'Afiliado';
+$_['text_affiliate']            = 'Associado';
 $_['text_my_affiliate']         = 'A minha conta de afiliado';
 $_['text_payment']              = 'Informações financeiras';
 $_['text_cheque']               = 'Cheque';

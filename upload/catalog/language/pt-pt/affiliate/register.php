@@ -4,7 +4,7 @@ $_['heading_title']             = 'Cadastre sua conta';
 
 // Text
 $_['text_account']              = 'Programa de afiliados';
-$_['text_register']             = 'Registe-se';
+$_['text_register']             = 'Registar';
 $_['text_account_already']      = 'Se você já tem uma conta de afiliado na nossa loja, acesse sua conta <a href="%s">clicando aqui</a>.';
 $_['text_signup']               = 'Para registar uma conta de afiliado, preencha o formulário abaixo, garantindo que todas as informações estejam corretamente preenchidas.';
 $_['text_your_details']         = 'Seus dados de contato';

@@ -10,8 +10,8 @@ $_['text_order_processing'] = 'Pedidos sendo processados';
 $_['text_order_complete']   = 'Pedidos finalizados';
 $_['text_order_other']      = 'Pedidos em outras situações';
 $_['text_returns']          = 'Devoluções';
-$_['text_customer']         = 'Clientes aguardando aprovação';
-$_['text_affiliate']        = 'Afiliados aguardando aprovação';
+$_['text_customer']         = 'Clientes a aguardar aprovação';
+$_['text_affiliate']        = 'Associados a aguardar aprovação';
 $_['text_product']          = 'Produtos sem stock';
 $_['text_review']           = 'Comentários pendentes';
 
