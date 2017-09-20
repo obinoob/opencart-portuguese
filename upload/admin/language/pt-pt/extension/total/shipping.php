@@ -8,7 +8,7 @@ $_['text_success']     = 'Envio modificado com sucesso!';
 $_['text_edit']        = 'A editar Envio';
 
 // Entry
-$_['entry_estimator']  = 'Calcular frete';
+$_['entry_estimator']  = 'Calcular entrega';
 $_['entry_status']     = 'Situação';
 $_['entry_sort_order'] = 'Posição';
 
