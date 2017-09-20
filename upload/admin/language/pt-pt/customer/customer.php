@@ -25,7 +25,7 @@ $_['text_reward']               = 'Pontos';
 $_['text_reward_add']           = 'Adicionar pontos';
 $_['text_ip']                   = 'IP';
 $_['text_option']               = 'Opções';
-$_['text_login']                = 'Aceder a loja com essa conta';
+$_['text_login']                = 'Autenticar com dados da conta';
 $_['text_unlock']               = 'Desbloquear a conta';
 
 // Column
